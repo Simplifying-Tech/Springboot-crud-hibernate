@@ -1,0 +1,5 @@
+com\entity\Employee.class
+com\repository\EmployeeRepository.class
+com\service\EmployeeService.class
+springboothibernatecrud\SpringbootHibernateCrudApplication.class
+com\controller\EmployeeController.class
